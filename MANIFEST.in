@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include buybutterng *.css
+recursive-include buybutterng *.csv
+recursive-include buybutterng *.html
+recursive-include buybutterng *.ico
+recursive-include buybutterng *.js
+recursive-include buybutterng *.json
+recursive-include buybutterng *.md
+recursive-include buybutterng *.png
+recursive-include buybutterng *.py
+recursive-include buybutterng *.svg
+recursive-include buybutterng *.txt
+recursive-exclude buybutterng *.pyc
